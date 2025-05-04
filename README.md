@@ -76,7 +76,7 @@ python app.py
 
 
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 136566696263.dkr.ecr.us-east-1.amazonaws.com/yolov7app
+    - Save the URI: 851725383499.dkr.ecr.ap-south-1.amazonaws.com/mlproj
 
 
 ## 4 Create EC2 Machine (Ubuntu)
